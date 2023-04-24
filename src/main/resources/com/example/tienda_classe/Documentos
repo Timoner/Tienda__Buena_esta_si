@@ -1,0 +1,9 @@
+21/04/2023
+
+PanelProductos:  Muestra los productos disponibles en una tabla.
+PanelClientes: Muestra los clientes en una tabla y permitir la creación de nuevos clientes.
+PanelOrdenes: Muestra  las órdenes existentes en una tabla.
+PanelDetalleOrden: Agrega productos a una orden y mostrar los detalles de la misma.
+
+[Para cada una se tiene que hacer un archivo FXML para definir la estructura y los componentes graficos]
+
